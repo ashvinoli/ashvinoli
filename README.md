@@ -1,9 +1,10 @@
-# Welcome to My GitHub!
+# Let the AI overload rule over us
 
-## About Me
-![alt text](depiction.webp "Title")
+## Hi, I am Ashvin!
+<img src="depiction.png" alt="My big brain!" />
 
-The image above is of course AI generated.
+The image above is AI generated, of course!
+
 Hi! I’m Ashvin Oli, a **PhD student** at **Vanderbilt University**, specializing in **computational mechanics**. My research focuses on:
 
 - **Shell Theory**
@@ -11,7 +12,7 @@ Hi! I’m Ashvin Oli, a **PhD student** at **Vanderbilt University**, specializi
 - **Machine Learning** in engineering
 - **Fracture Mechanics**
 
-I’m passionate about **coding** and exploring the **intersection of AI and engineering**. I’m always open to new ideas and collaborations.
+I’m passionate about **coding** and exploring the **intersection of AI and computational mechanics**. I’m always open to new ideas and collaborations.
 
 
 ## Let's Collaborate!
