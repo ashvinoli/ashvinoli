@@ -20,8 +20,8 @@ I’m passionate about **coding** and exploring the **intersection of AI and eng
 I’m always looking for **research collaboration** opportunities. If you're working on something related to any of these topics, feel free to get in touch!
 
 ## Contact Me
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn URL]
+- Email: ashvin.oli@vanderbilt.edu
+- LinkedIn: [My Linkedin](https://www.linkedin.com/in/ashvin-oli-55aa75184/)
 
 ---
 
