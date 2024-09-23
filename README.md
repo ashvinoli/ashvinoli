@@ -19,6 +19,10 @@ I’m passionate about **coding** and exploring the **intersection of AI and eng
 ## Let's Collaborate!
 I’m always looking for **research collaboration** opportunities. If you're working on something related to any of these topics, feel free to get in touch!
 
+## My stats
+![Ashvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashvinoli&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ashvinoli&theme=tokyonight)](https://git.io/streak-stats)
+
 ## Contact Me
 - Email: ashvin.oli@vanderbilt.edu
 - LinkedIn: [My Linkedin](https://www.linkedin.com/in/ashvin-oli-55aa75184/)
