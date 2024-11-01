@@ -1,11 +1,9 @@
-# Let the AI overload rule over us
 
-## Hi, I am Ashvin!
-<img src="depiction.png" alt="My big brain!" />
 
-The image above is AI generated, of course!
+# Hi,
 
-Hi! I’m Ashvin Oli, a **PhD student** at **Vanderbilt University**, specializing in **computational mechanics**. My research focuses on:
+
+I’m Ashvin Oli, a **PhD student** at **Vanderbilt University**, specializing in **computational mechanics**. My research focuses on:
 
 - **Shell Theory**
 - **Finite Element Methods (FEM)**
@@ -30,8 +28,8 @@ I’m always looking for **research collaboration** opportunities. If you're wor
 ---
 
 ### Skills
-- **Programming**: Python, C++, MATLAB, OpenSeesPy, FEniCS
-- **Tools**: Git, LaTeX, Jupyter, TensorFlow, PyTorch
-- **Frameworks**: FEniCS, OpenSeesPy, Salome
+- **Programming**: Python, C++, MATLAB
+- **Tools**: Git, LaTeX
+- **Frameworks**: FEniCS, OpenSeesPy, PyTorch
 
 Check out my repositories for more information on my projects and research.
